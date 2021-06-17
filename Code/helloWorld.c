@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 int main(){
-	helloworld();
+	helloWorld();
 }
 
 void helloworld(){
